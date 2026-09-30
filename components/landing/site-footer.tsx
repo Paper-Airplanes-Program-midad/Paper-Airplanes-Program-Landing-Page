@@ -5,7 +5,7 @@ import { PlaneMark } from "@/components/ui/marks";
 const SOCIALS = [
   {
     label: "LinkedIn",
-    href: "https://www.linkedin.com/company/paper-airplanes-inc-",
+    href: "https://www.linkedin.com/company/paper-bla-bla",
     path: "M4.5 3a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3ZM3.2 8h2.6v9H3.2V8Zm5 0h2.5v1.2c.4-.7 1.3-1.4 2.7-1.4 2 0 3.4 1.2 3.4 3.8V17h-2.6v-4.9c0-1.3-.5-2-1.6-2-1 0-1.7.6-1.7 2V17H8.2V8Z",
   },
   {
