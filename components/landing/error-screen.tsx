@@ -200,10 +200,6 @@ export function ErrorScreen({ code }: { code: ErrorCode }) {
             </Link>
           ))}
         </nav>
-
-        <p className="mt-10 font-serif text-[14px] italic text-fg-faint">
-          &ldquo;{org.motto}&rdquo;
-        </p>
       </div>
     </main>
   );
